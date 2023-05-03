@@ -1,5 +1,5 @@
-# Cheap Goods
-Cheap Goods is a p2p platform that enables local products at an affordable rate
+# Cheapish
+Cheapish is a p2p platform that enables local products at an affordable rate
 
 ## Installation
 - make sure git and python3 is installed on your local machine, if it ain't installed then do this;
@@ -60,5 +60,6 @@ _Also don't forget to turn off debug mode when running this on your live server/
 ## Contributors
 
 - Jane Affamuefuna (Jayneey)
+- Iyebhora Samuel
 
 ## [Licensing](./LICENSE)
