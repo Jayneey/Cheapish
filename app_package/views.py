@@ -29,7 +29,7 @@ def signin():
 @app.route('/register', strict_slashes=False, methods = ['GET', 'POST'])
 def signup():
    """
-        This metho is called when the route /register is hit by the client
+        This method is called when the route /register is hit by the client
 
         @Args:
              name
